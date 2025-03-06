@@ -11,7 +11,7 @@ body {
     color: #f6f6f6;
 }
 .titulo-destaque {
-    color: #ff005a;
+    color: rgb(0, 208, 255);
 }
 
 .apresentacao {
@@ -53,7 +53,7 @@ body {
 }
 
 .apresentacao__links__botao {
-    border: 2px solid #ff005a;
+    border: 2px solid rgb(0, 208, 255);
     width: 378px;
     text-align: center;
     border-radius: 8px;
