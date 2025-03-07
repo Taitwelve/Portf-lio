@@ -9,12 +9,30 @@ body {
     background-color: black;
     color: #f6f6f6;
 }
+
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho_menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho_link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(0, 208, 255);
+}
+
+
 .titulo-destaque {
     color: rgb(0, 208, 255);
 }
 
 .apresentacao {
-    padding: 5%;
+    padding: 3% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
