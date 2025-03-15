@@ -14,18 +14,3 @@ Este é o meu portfólio online, desenvolvido para apresentar minhas habilidades
 - **Links para redes sociais**: LinkedIn, GitHub e Instagram.  
 - **Design responsivo**, adaptável para diferentes dispositivos.  
 
-## 📂 Estrutura de Diretórios
-
-```bash
-/
-|-- index.html
-|-- about.html
-|-- Styles/
-|   |-- style.css
-|-- assets/
-|   |-- linkedin.png
-|   |-- github.png
-|   |-- instagram.png
-|   |-- Imagem.png
-```
-
